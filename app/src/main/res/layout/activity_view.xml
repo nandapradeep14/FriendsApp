@@ -1,0 +1,17 @@
+<ScrollView android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="100px"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="text view"
+            android:id="@+id/tv"/>
+    </LinearLayout>
+
+</ScrollView>

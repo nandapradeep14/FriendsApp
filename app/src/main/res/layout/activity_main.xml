@@ -48,5 +48,10 @@
         android:layout_height="wrap_content"
         android:text="submit"
         android:id="@+id/sub"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="view all"
+        android:id="@+id/vieww"/>
 
 </LinearLayout>
